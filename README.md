@@ -14,7 +14,7 @@
 
 <h1 align="center">About Me</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div align= "center"><img src="Exam Management System/my image.jpg" width="435" height="300"/>
+<div align= "center"><img src="Exam Management System/My Image.jpg" width="300" height="300"/>
 
 </div> 
 

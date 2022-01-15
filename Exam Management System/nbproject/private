@@ -1,0 +1,28 @@
+
+compile.on.save=true
+do.depend=false
+do.jar=true
+javac.debug=true
+javadoc.preview=true
+user.properties.file=C:\\Users\\shriv\\AppData\\Roaming\\NetBeans\\8.2\\build.properties
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Exam%20Management%20System/src/studentDetails.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/allStudentResult.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/loginAdmin.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/addNewQuestion.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/updateQuestion.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/quizExamStudent.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/index.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/deleteQuestion.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/successfullySummited.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/allQuestion.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/adminHome.java</file>
+            <file>file:/E:/Exam%20Management%20System/src/instructionStudent.java</file>
+        </group>
+    </open-files>
+</project-private>

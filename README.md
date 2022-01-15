@@ -14,7 +14,7 @@
 
 <h1 align="center">About Me</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div align= "center"><img src="https://github.com/yashshrivastavaa/Mask-Detection-Security/blob/76ed40eb6d315ab30b49ad33784641738b0ace37/Project%20Documentation/Contributers/My%20Image.jpg" width="300" height="300"/>
+<div align= "center"><img src="Exam Management System/my image.jpg" width="435" height="300"/>
 
 </div> 
 

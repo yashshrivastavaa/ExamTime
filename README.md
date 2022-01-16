@@ -6,7 +6,9 @@
 <div align= "center"><img src="Exam Management System/LOGO/Logo.jpg" width="300" height="300"/></div> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Our online software provides a protected and stable stage for examiners to make and arrange various types of tests/exams for Educational/Coaching Institutions, Corporate, Government, coaching centers, and other leading organizations.**
+
+<h4 align="center">Our online software provides a protected and stable stage for examiners to make and arrange various types of tests/exams for Educational/Coaching Institutions, Corporate, Government, coaching centers, and other leading organizations.</h4>
+
 
 
 

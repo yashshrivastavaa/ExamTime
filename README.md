@@ -1,4 +1,4 @@
-<b><h1 align="center">Online-Exam-Management-System</h1></b>
+<b><h1 align="center">Online Exam Management System</h1></b>
 
 <h4 align="center">Online examination is conducting a test online to measure the knowledge of the participants on a given topic.</h4>
 

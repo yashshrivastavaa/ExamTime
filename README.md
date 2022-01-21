@@ -36,5 +36,20 @@ Our online software provides a protected and stable stage for examiners to make 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+### 📫Connect with me
+  <a href="https://twitter.com/BitterAsTruth">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/yash-shrivastava-a116a81b3/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.instagram.com/yash_shrivastava_official/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
+  <a href="https://api.whatsapp.com/send?phone=918109369496&text=Hey%20my%20name%20is.......">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
+  </a>
+  
+
 ##  📝  Feedback & Suggestion
 [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSf-VH2DUtYlXVTT0uU2X1nL2mYDtEtYwKaSoOsS-TdR3grEvw/viewform) for feedback & Suggestion

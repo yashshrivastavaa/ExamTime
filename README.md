@@ -48,7 +48,7 @@ Our online software provides a protected and stable stage for examiners to make 
   </a>&ensp;
   <a href="https://api.whatsapp.com/send?phone=918109369496&text=Hey%20my%20name%20is.......">
     <img width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
-  </a>
+  </a>&ensp;
   <a href="https://www.youtube.com/c/YashShrivastava92">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
   </a>

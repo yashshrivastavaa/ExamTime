@@ -50,7 +50,7 @@ Our online software provides a protected and stable stage for examiners to make 
     <img width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
   </a>
   <a href="https://www.youtube.com/c/YashShrivastava92">
-    <img width="30px" src=" https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
   </a>
 
   

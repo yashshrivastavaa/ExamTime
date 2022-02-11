@@ -3,7 +3,7 @@
 <h4 align="center">Online examination is conducting a test online to measure the knowledge of the participants on a given topic.</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div align= "center"><img src="Exam Management System/LOGO/Logo.jpg" width="300" height="300"/></div> 
+<div align= "center"><img src="https://www.pinclipart.com/picdir/big/388-3886471_online-exam-system-boy-pic-study-png-clipart.png" width="300" height="300"/></div> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
